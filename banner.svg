@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Andele Deal Finder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1035"/>
+      <stop offset="0.55" stop-color="#3b1d6e"/>
+      <stop offset="1" stop-color="#b8327a"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd9a0"/>
+      <stop offset="1" stop-color="#ff9f6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <g opacity="0.12" fill="#ffffff">
+    <circle cx="1040" cy="60" r="150"/>
+    <circle cx="1150" cy="290" r="110"/>
+    <circle cx="90" cy="330" r="130"/>
+  </g>
+  <!-- price tag -->
+  <g transform="translate(950 80) rotate(14)">
+    <path d="M0 34 L46 0 H170 a16 16 0 0 1 16 16 V120 a16 16 0 0 1 -16 16 H46 L0 102 Z" fill="url(#tag)"/>
+    <circle cx="40" cy="68" r="11" fill="#3b1d6e"/>
+    <text x="118" y="84" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#3b1d6e">€</text>
+  </g>
+  <text x="80" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">Andele Deal Finder</text>
+  <text x="82" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#e9dcff">Spots underpriced second-hand clothing on Andele Mandele</text>
+  <text x="82" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#d5c2f5">Market value from real prices · Telegram alerts · runs on an old phone</text>
+</svg>
