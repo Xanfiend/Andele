@@ -10,7 +10,7 @@
   <img alt="Source" src="https://img.shields.io/badge/source-private-555">
 </p>
 
-A personal tool that watches [Andele Mandele](https://www.andelemandele.lv), Latvia's largest second-hand marketplace, and tells me when a piece of clothing is listed well below what it is worth.
+A personal tool that watches [Andele Mandele](https://www.andelemandele.lv), Latvia's largest second-hand marketplace, and tells me when a piece of clothing is listed well below what it is worth, so I can buy it and resell it at a fair price.
 
 As far as I know, nothing like it exists for Andele.
 
@@ -25,7 +25,8 @@ As far as I know, nothing like it exists for Andele.
 | 📱 **Alerts my phone** | Sends the best finds to Telegram with the price, the expected margin and a ready-made message for the seller. |
 | 🧾 **Explains itself** | Every deal lists the listings it was compared with. Too little data means "unchecked", never a guess. |
 | 🚩 **Flags risk** | Warns about likely fakes and risky sellers instead of promoting them. |
-| 💶 **Helps with pricing** | Suggests what to list an item at, when to lower it, and drafts a title and description. |
+| 💶 **Helps me resell** | Suggests what to list an item at, when to lower it, and drafts a title and description. |
+| 📈 **Tracks profit** | Keeps what I bought, what it cost and what it sold for, with profit after shipping and fees. |
 
 ## What an alert looks like
 
